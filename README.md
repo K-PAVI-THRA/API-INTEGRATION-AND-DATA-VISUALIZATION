@@ -12,7 +12,7 @@
 
 **MENTOR NAME** : Neela Santhosh Kumar
 
-# DESCRIPTION API-INTEGRATION-AND-DATA-VISUALIZATION
+# DESCRIPTION : API-INTEGRATION-AND-DATA-VISUALIZATION
 
 To complete the task of API integration and data visualization using Python, I'll guide you through the steps necessary to fetch data from a public API (like OpenWeatherMap), process it, and then create a visualization using Matplotlib or Seaborn.
 
